@@ -1,0 +1,5 @@
+.env
+.env.*.local
+bootstrap/cache/packages.php
+bootstrap/cache/services.php
+bootstrap/cache/
