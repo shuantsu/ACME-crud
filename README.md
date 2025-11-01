@@ -11,6 +11,8 @@ O desenvolvimento começou com o **setup inicial do Laravel** via Composer. Em s
 
 O `scramble` (semelhante ao `swagger`) foi instalado via composer como módulo de desenvolvimento, o que agilizou em muito a depuração e testes das rotas da API.
 
+Além disso, tive ajuda do modelo de inteligência artificial `Gemini`, que me ajudou a desenvolver mais rápido usando tecnologias que não domino totalmente, e também do bot `CodeRabbit` que serviu como revisor de código diretamente no reposítorio GitHub e encontrou pelo menos uma melhoria crucial no código. Essas ferramentas acrescentaram em muito ao meu aprendizado e entendimento.
+
 ### Anotações da Implementação do Módulo de Produtos (CRUD)
 
 O desenvolvimento da interface de Produtos com o Laravel e a API REST enfrentou alguns obstáculos esperados ao integrar o frontend e o backend, mas todos foram superados.
