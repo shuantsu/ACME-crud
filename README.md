@@ -14,6 +14,7 @@ O `scramble` (semelhante ao `swagger`) foi instalado via composer como módulo d
 Além disso, tive ajuda do modelo de inteligência artificial `Gemini`, que me ajudou a desenvolver mais rápido usando tecnologias que não domino totalmente, e também do bot `CodeRabbit` que serviu como revisor de código diretamente no reposítorio GitHub e encontrou pelo menos uma melhoria crucial no código. Essas ferramentas acrescentaram em muito ao meu aprendizado e entendimento.
 
 **Veja um vídeo do sistema funcionando:**
+
 [![Veja no YouTube](videopreview.png)](https://www.youtube.com/watch?v=H8-uQSzRxGo)
 
 ### Anotações da Implementação do Módulo de Produtos (CRUD)
