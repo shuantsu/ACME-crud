@@ -40,7 +40,7 @@ O desenvolvimento da interface de Produtos com o Laravel e a API REST enfrentou 
 
 **1. Escolha da Arquitetura**
 
-Me deparei com a necessidade de definir rapidamente a tecnologia de frontend. Inicialmente, cogitamos o Inertia.js com Svelte, devido à sua modernidade.
+Me deparei com a necessidade de definir rapidamente a tecnologia de frontend. Inicialmente, cogitei usar o Svelte, devido à sua modernidade.
 
 O problema foi que integrar Svelte e Inertia exigiria uma configuração inicial mais complexa no setup do Vite.
 
