@@ -17,6 +17,21 @@ Além disso, tive ajuda do modelo de inteligência artificial `Gemini`, que me a
 
 [![Veja no YouTube](videopreview.png)](https://www.youtube.com/watch?v=H8-uQSzRxGo)
 
+### Como rodar a aplicação:
+
+Tenha PHP e o Composer instalado e rode os comandos:
+
+    cd acme-crud
+    composer install
+    php artisan serve
+
+O endereço do servidor será exibido no terminal.
+Para acessar o scramble, acesse a rota `docs/api`
+
+Certifique-se que seu php.ini tenha as extensoes do laravel ativadas:
+
+`OpenSSL, PDO, pdo_sqlite, Mbstring, Tokenizer, XML, Ctype, JSON, BCMath, cURL`
+
 ### Anotações da Implementação do Módulo de Produtos (CRUD)
 
 O desenvolvimento da interface de Produtos com o Laravel e a API REST enfrentou alguns obstáculos esperados ao integrar o frontend e o backend, mas todos foram superados.
