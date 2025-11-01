@@ -96,7 +96,7 @@
 
         // Use jQuery para simplificar as operações DOM e requisições AJAX
         $(document).ready(function () {
-            const API_BASE_URL = 'http://127.0.0.1:8000/products';
+            const API_BASE_URL = '/products';
             const $productsContainer = $('#products-list-container');
             const $statusMessage = $('#status-message');
             const $createFormContainer = $('#create-product-form-container');
