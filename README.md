@@ -1,5 +1,7 @@
 # ACME-Crud (Laravel e Inertia)
 
+Solução para o desafio: https://substack.com/home/post/p-174829998
+
 Este documento detalha as etapas e as soluções encontradas durante a implementação do **Módulo de Produtos (CRUD)**, essencial para a gestão de dados do sistema, utilizando **Laravel** para o backend e uma abordagem de **JavaScript Puro com jQuery** para o frontend, consumindo uma **API REST**.
 
 O desenvolvimento começou com o **setup inicial do Laravel** via Composer. Em seguida, o esqueleto do módulo foi rapidamente estabelecido utilizando a linha de comando Artisan com os seguintes passos:
