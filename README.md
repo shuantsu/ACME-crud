@@ -44,7 +44,7 @@ Me deparei com a necessidade de definir rapidamente a tecnologia de frontend. In
 
 O problema foi que integrar Svelte e Inertia exigiria uma configuração inicial mais complexa no setup do Vite.
 
-Mas foi resolvido por uma mudança estratégica para o **JavaScript Puro com jQuery**. Essa abordagem simples e direta permitiu consumir a API REST existente de forma imediata e focar na funcionalidade de CRUD.
+Mas foi resolvido por uma mudança estratégica para o **jQuery** que tenho bastante familiaridade. Essa simplificação e mudança de foco permitiu consumir a API REST existente de forma imediata e focar na funcionalidade de CRUD.
 
 **2. Bloqueio de Segurança (CSRF)**
 
