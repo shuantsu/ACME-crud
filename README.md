@@ -54,6 +54,10 @@ O erro ocorreu devido à política de segurança padrão do Laravel, que exige u
 
 Mas foi resolvido por dois passos simples: primeiro, incluímos o token na View Blade usando a diretiva `@csrf` em uma meta tag. Em seguida, configuramos o jQuery globalmente com **`$.ajaxSetup()`** para ler essa meta tag e incluir o token de segurança em todas as chamadas AJAX subsequentes.
 
+Depois disso descobri um jeito ainda melhor:
+
+https://github.com/shuantsu/ACME-crud/blob/main/CSRF.md
+
 **3. Falha no Processamento da Exclusão (DELETE)**
 
 Me deparei com um erro no frontend (`Cannot read properties of undefined (reading 'message')`) após a exclusão bem-sucedida de um produto.
